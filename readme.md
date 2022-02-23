@@ -6,6 +6,7 @@ Guess what is the number "2517"?
 - Blog: [blog.zsh2517.com](https://blog.zsh2517.com)
 - Other sites:
     - [世界大学.top](http://xn--rhqr3ykwbxv0c.top/)
+    - [滑稽Code](http://huajico.de/)
 
 ---
 
