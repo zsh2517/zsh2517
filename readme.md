@@ -2,8 +2,8 @@ zsh2517
 
 Guess what is the number "2517"?
 
-- Personal site: [zsh2517.com](zsh2517.com)
-- Blog: [blog.zsh2517.com](blog.zsh2517.com)
+- Personal site: [zsh2517.com](https://zsh2517.com)
+- Blog: [blog.zsh2517.com](https://blog.zsh2517.com)
 - Other sites:
     - [世界大学.top](http://xn--rhqr3ykwbxv0c.top/)
 
